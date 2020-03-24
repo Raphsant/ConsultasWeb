@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rafsa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rafsa\\.nuget\\packages"
+    ]
+  }
+}
